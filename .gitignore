@@ -1,5 +1,9 @@
 venv/*
 .idea/*
 
+# Huge lumps of data made by net
 data/*.pickle
 star_wars_data.csv
+
+# Anvil uplink key (keep secret)
+keyfile.txt
